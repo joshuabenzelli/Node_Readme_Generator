@@ -1,18 +1,18 @@
 
-# README Generated for jklhsdf!
+# README Generated for README Generator!
 
 ## Table of contents:
-    * 1:[Description](Description)
+    * 1: Description
 
-    * 2:[Github](Github)
+    * 2: Github
 
-    * 3:[Email](Email)
+    * 3: Email
 
 ## Description:
-    sdfsdfg
+    This generator is designed to make readme files a breeze!
 
-## Github: [sdfgsdg](https://github.com/sdfgsdg)
+## Github: [joshuabenzelli](https://github.com/joshuabenzelli)
   
-### Feel free to email me with any questions or concerns at sdgsdgs!
+### Feel free to email me with any questions or concerns at joshuabenzelli@gmail.com!
   
   
